@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @ItsRadiiX
-- 👀 I’m interested in developing MC Plugins & Creating Games in UE4
-- 🌱 I’m currently learning Java, JavaScript, C++ 
-- 💞️ I’m looking to collaborate on creating MC Plugins
+- 👀 I’m interested in working on Java projects & websites
+- 🌱 I’m currently learning Java, JavaScript, C++, SQL 
+- 💞️ I’m looking to collaborate on creating innovative MC projects
 - 📫 You can reach me on Discord: ItsRadiiX#0001
+- 💬 Or mail mo on mail@bryansuk.nl
 
 <!---
 ItsRadiiX/ItsRadiiX is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
