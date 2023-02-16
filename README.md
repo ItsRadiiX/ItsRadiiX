@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Java, JavaScript, C++, SQL 
 - 💞️ I’m looking to collaborate on creating innovative MC projects
 - 📫 You can reach me on Discord: ItsRadiiX#0001
-- 💬 Or mail mo on mail@bryansuk.nl
+- 💬 Or mail me on mail@bryansuk.nl
 
 <!---
 ItsRadiiX/ItsRadiiX is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
